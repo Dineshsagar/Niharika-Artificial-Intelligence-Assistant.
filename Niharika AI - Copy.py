@@ -6,6 +6,7 @@ import webbrowser
 import os
 import smtplib
 
+
 #this is the voice engine 0 for female and 1 for male.
 #ANY ISSUES, PLEASE GET BACK TO ME.
 #SOMETIMES YOUR SYSTEM MAY TROUBLE YOU FOR SYSTEM VARIBLES.
@@ -170,5 +171,6 @@ if __name__ == "__main__":
             speak("Okay bye I hope you had good time talking to me, see you later")
             r.stop()
                 
+
 
 
